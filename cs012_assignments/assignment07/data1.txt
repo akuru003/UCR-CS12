@@ -1,0 +1,20 @@
+3
+<begin_topic>
+:id: 1
+:subject: asd
+:from: ali87
+:children: 2 3
+:body: asdf
+<end>
+<begin_reply>
+:id: 2
+:subject: Re: asd
+:from: ali87
+:body: adf
+<end>
+<begin_reply>
+:id: 3
+:subject: Re: asd
+:from: ali87
+:body: snnsf
+<end>
